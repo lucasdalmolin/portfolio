@@ -1,0 +1,8 @@
+El portfolio va a constar de 4 secciones algo basico.
+La idea seria tener una pagina principal en la cual sea un scroll con 4 secciones, algo como about, projects, experience y contact.
+Puedo poner una barra de navegacion en donde al apretar en alguno de esas opciones navegue hacia esa seccion.
+Ademas de las 4 secciones que tengo planeado poner tambien me gustaria tener un Header con mi nombre y puesto o alguna boludes por el estilo.
+
+M gusta la idea de la barra de navegacion lateral. Con sus respectivos nombres al hacer hover y que cuano hago click en esa seccion o estoy sobre esa seccion que el punto de esa seccion cambie de color.
+
+Estar usando next js es overkill pero la realidad es que era el unico repo que tenia en la computadora como para empezar y sin internet.
